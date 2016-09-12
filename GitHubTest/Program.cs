@@ -12,6 +12,8 @@ namespace GitHubTest
         {
             Console.WriteLine("Hello");
             Console.ReadKey();
+            Console.WriteLine("World");
+            Console.ReadKey();
         }
     }
 }
